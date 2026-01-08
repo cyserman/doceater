@@ -1,0 +1,5 @@
+{
+  "name": "DocIntelligence Pro",
+  "description": "Enterprise-grade AI document decomposition tool. Split massive bundles into verified, categorized, and fingerprinted (SHA-256) individual records with forensic undo/redo and batch management.",
+  "requestFramePermissions": []
+}
